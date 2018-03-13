@@ -1,7 +1,7 @@
-### PenHouse Metropolis Real Estate VR
+### PentHouse Metropolis Real Estate VR
 ![Alt text](PreviewImage/0.jpg?raw=true "Preview1")
 
-PenHouse Metropolis Real Estate VR App Use Unreal Engine 4 to Develop App for Oculus and HTC Vive with function:
+PentHouse Metropolis Real Estate VR App Use Unreal Engine 4 to Develop App for Oculus and HTC Vive with function:
 
 _ Left Hand: Teleport and Move Forward or Backward, On/Off 3D UI 
 
