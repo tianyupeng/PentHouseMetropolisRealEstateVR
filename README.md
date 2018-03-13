@@ -1,11 +1,13 @@
-### PenHouse Metropolis RealEstate VR
+### PenHouse Metropolis Real Estate VR
 ![Alt text](PreviewImage/0.jpg?raw=true "Preview1")
 
-PenHouse Metropolis RealEstate VR App Use Unreal Engine 4 to Develop App for Oculus and HTC Vive with function:
+PenHouse Metropolis Real Estate VR App Use Unreal Engine 4 to Develop App for Oculus and HTC Vive with function:
 _ Left Hand: Teleport and Move Forward or Backward, On/Off 3D UI 
 _ Right Hand: Change Material(Floor, Wall, Color), On/Off TV(change video of TV), 360 Degree VIew and TV and Image Hologram View 
 (Can Load Images From Disk Via Copy it to .../Content/Images or .../Content/360Image in Package folder
-Note: Support jpg extension only)
+Note: Support jpg extension only). Customers can see their future house.
+
+GTX 1070 or Higher is recomended for best experience.
 
 Link Package: 
 https://drive.google.com/file/d/1H9EG1rkL9Hvj_-CevqyJckIdyt9OswG6/view?usp=sharing
