@@ -11,8 +11,8 @@ Note: Support jpg extension only). Customers can see their future house.
 
 GTX 1070 or Higher is recomended for best experience.
 
-Link Package: 
-https://drive.google.com/file/d/1H9EG1rkL9Hvj_-CevqyJckIdyt9OswG6/view?usp=sharing
+Link Store:
+https://store.steampowered.com/app/781040/Vinhomes_Metropolis_VR_Interior/
 (Can Use with both HTC Vive or Oculus, App will dectect your device when starts game)
 
 ![Alt text](PreviewImage/1.jpg?raw=true "Preview1")
